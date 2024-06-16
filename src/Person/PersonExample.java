@@ -1,14 +1,11 @@
 package Person;
 
-import Person.Person;
-
 public class PersonExample {
     public static void main(String[] args) {
-        Student s = new Student("이순신",102,"A","학생");
+        Person s = new Student("이순신",102,"A","학생");
         s.Hi();
         s.Age();
         s.Name();
-        s.SayGrade();
         System.out.println();
 
         Person p1 = new Person();
