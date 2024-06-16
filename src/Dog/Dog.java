@@ -1,4 +1,6 @@
-public class Dog{
+package Dog;
+
+public class Dog {
     String name;
     int age;
     Dog() {

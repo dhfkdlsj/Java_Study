@@ -1,3 +1,5 @@
+package Cal;
+
 public class Cal {
     int plus(int x, int y){
         int sum = x+y;

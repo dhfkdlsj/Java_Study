@@ -1,3 +1,7 @@
+package Person;
+
+import Person.Person;
+
 public class PersonExample {
     public static void main(String[] args) {
         Student s = new Student("이순신",102,"A","학생");
